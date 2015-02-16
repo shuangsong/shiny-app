@@ -9,7 +9,7 @@ This page is like a filter.
 The first three select boxes are the factor variables that you can select.
 There are also three slider bars that gives you range of those three variables that you can pick.
 Don't forget to click "Update" button to update your selection. By clicking this button, you can finally see the table on your right of the screen you want to filt.
-This is very convenient , I get the idea with I went to online shopping at www.bluenile.com. 
+This is very convenient , I get the idea with I went to online shopping at http://www.bluenile.com/diamond-search?track=DiamondSearchRD 
 
 page 2
 ----------
