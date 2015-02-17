@@ -21,4 +21,4 @@ Below the numeric input bar you can see the final number ( which is the number t
 By clicking update button you can update what you changed.
 
 Below is the link of my app:
-http://github.com/shuangsong/shiny-app/blob/master/README.md
+http://shuangsong.shinyapps.io/project/
