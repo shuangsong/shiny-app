@@ -19,4 +19,6 @@ Also there are two check boxes that you can add more: add title, and add theme.
 There is a numeric input bar that you can input number of carat to convert to gram.
 Below the numeric input bar you can see the final number ( which is the number that converted to unit: gram)
 By clicking update button you can update what you changed.
-Hope you like it!!
+
+Below is the link of my app:
+http://github.com/shuangsong/shiny-app/blob/master/README.md
